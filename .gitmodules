@@ -1,0 +1,9 @@
+[submodule "sabnzbd"]
+  path = sabnzbd
+  url = https://github.com/sabnzbd/sabnzbd.git
+[submodule "sickbeard"]
+  path = sickbeard
+  url = https://github.com/midgetspy/Sick-Beard.git
+[submodule "couchpotato"]
+  path = couchpotato
+  url = https://github.com/RuudBurger/CouchPotatoServer.git
